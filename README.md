@@ -2,7 +2,7 @@
 
 Easy windows version to install and run https://github.com/Cactus-Network/fd-cli
 
-[1] git clone https://github.com/prodchia/easy_fd_cli.git
+[1] git clone https://github.com/prodchia/easy_fd_cli_cactus.git
 
 [2] cd easy_fd_cli
 
