@@ -22,7 +22,11 @@ That's it.
 
 Now to recover coins:
 
-[5] get_coins.bat coinname(e.g. flora, dogechia etc.)
+[5] get_coins.bat coinname(e.g. cactus)
+
+
+This version works with forks like cactus that are based on the latest chia code( >1.2.0). To recover from blockchains based on the legacy chia code use the easy_fd_cli version.(https://github.com/prodchia/easy_fd_cli)
+
 
 There are some slight differenes between various blockchains. To recover  coins  other than cactus use the easy_fd_cli version ( https://github.com/prodchia/easy_fd_cli)
 
